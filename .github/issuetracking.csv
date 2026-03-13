@@ -1,1 +1,7 @@
 IssueID,Title,Description,AssignedTo,Priority,Status,DateCreated,DateResolved
+1,Create Data Lists,Create parallel lists in data.py,Justin,High,Done,2026-03-12,2026-03-12
+2,Build Menu System,Create menu loop in main.py,Justin,High,Done,2026-03-12,2026-03-12
+3,Add Session Function,Create add_session function in tracker.py,Justin,High,Done,2026-03-12,2026-03-12
+4,View All Sessions,Display all stored sessions,Justin,Medium,Done,2026-03-12,2026-03-12
+5,Summary Report,Calculate totals and averages,Justin,Medium,Done,2026-03-12,2026-03-12
+6,Test Program,Run program and verify functionality,Justin,Medium,Done,2026-03-12,2026-03-12
